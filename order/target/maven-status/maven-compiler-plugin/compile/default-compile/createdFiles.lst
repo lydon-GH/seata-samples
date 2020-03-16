@@ -1,0 +1,4 @@
+io\seata\sample\controller\OrderController.class
+io\seata\sample\service\OrderService.class
+io\seata\sample\feign\UserFeignClient.class
+io\seata\sample\OrderApplication.class
